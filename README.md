@@ -2,7 +2,7 @@
 A NPM Package for WhatsAsena
 
 ### NPM Installion
-`npm install -g whatsasena-npm`
+`npm install -g whatsdark-npm`
 
 ### NPM Author
-`Phaticusthiccy` - [NPM](https://www.npmjs.com/package/whatsasena-npm)
+`Abdullah` - [NPM](https://www.npmjs.com/package/whatsasena-npm)
